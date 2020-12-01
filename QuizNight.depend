@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589150751 source:c:\users\dylan.desktop-ltq2d4a\desktop\college\year2 semester 2\c programming\quiznight\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
